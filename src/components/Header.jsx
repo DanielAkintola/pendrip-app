@@ -23,7 +23,7 @@ const Header = () => {
 						Pendrip is a reputable and client-centred writing company that
 						specializes in academic and technical writing. Trust Pendrip
 						as your dedicated partner in achieving writing excellence at a
-						mouth-watering price.
+						considerate price.
 					</p>
 
 					<Link link={"services"}>

@@ -22,7 +22,7 @@ const Contact = () => {
 				"service_8fekqd7",
 				"template_f42n4kf",
 				form.current,
-				"K56qyoODds9eTl_MZ"
+				"K56qyoODds9eTl_MU"
 			);
 
 			alert("Email sent successfully");

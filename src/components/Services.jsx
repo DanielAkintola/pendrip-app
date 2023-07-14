@@ -3,10 +3,7 @@ import { servicesList } from "../constants";
 
 const Services = () => {
 	return (
-		<div
-			className="service-section bg-cover bg-no-repeat bg-[center]"
-			id="services"
-		>
+		<div className="service-section" id="services">
 			<div className="featurs-container grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4  gap-[5px] h-[100%]">
 				{servicesList.map((item) => {
 					return <ServicesCard key={item.id} {...item} />;

@@ -7,6 +7,7 @@ import Services from "./components/Services";
 import Features from "./components/Features";
 import Team from "./components/Team";
 import CtaSection from "./components/Cta";
+import CoreValueSection from "./components/CoreValue";
 
 const App = () => {
 	return (
@@ -16,6 +17,7 @@ const App = () => {
 			<About />
 			<Features />
 			<Team />
+			<CoreValueSection />
 			<CtaSection />
 			<Contact />
 

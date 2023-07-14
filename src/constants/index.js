@@ -30,7 +30,7 @@ export const servicesList = [
 
 	{
 		id: "02",
-		title: "hardware",
+		title: "copywriting",
 		text: "Harness the power of persuasive copy to captivate your target market and drive conversions.",
 		Icon: PiScrollBold,
 	},
@@ -80,25 +80,25 @@ export const featuressList = [
 		id: 1,
 		icon: iconCollaborate,
 		title: "Collaboration",
-		text: "We excels in collaborative copywriting. We work closely with clients, editors, and stakeholders, understanding project needs, providing regular updates, and incorporating feedback for a smooth process.",
+		text: "We excel in collaborative copywriting. We work closely with clients, editors, and stakeholders, understanding project needs, providing regular updates, and incorporating feedback for a smooth process.",
 	},
 	{
 		id: 2,
 		icon: iconCreative,
 		title: "Creativity",
-		text: "we thrive on creative and innovative content creation. Our team thinks outside the box, generating fresh and captivating ideas that make us stand out from the competition. Expect exceptional, unique, and engaging content from Smart Grade.",
+		text: "we thrive on creative and innovative content creation. Our team thinks outside the box, generating fresh and captivating ideas that make us stand out from the competition. Expect exceptional, unique, and engaging content from Pendrip.",
 	},
 	{
 		id: 3,
 		icon: iconSecurity,
 		title: "Confidentiality",
-		text: "We prioritizes confidentiality in the writing industry. With strict non-disclosure agreements, we safeguard sensitive information, earning client trust and ensuring privacy.",
+		text: "We prioritize confidentiality in the writing industry. With strict non-disclosure agreements, we safeguard sensitive information, earning client trust and ensuring privacy.",
 	},
 	{
 		id: 4,
 		icon: iconSatisfy,
 		title: "Client Satisfaction",
-		text: "Client satisfaction is a key focus us. We prioritize the client's goals, actively listen to their needs, provide excellent customer service, and go the extra mile to ensure that clients are happy with the final master piece.",
+		text: "Client satisfaction is our focus. We prioritize the client's goals, actively listen to their needs, provide excellent customer service, and go the extra mile to ensure that clients are happy with the final master piece.",
 	},
 ];
 export const socialMediaLinks = [
@@ -109,4 +109,27 @@ export const socialMediaLinks = [
 		profile: "pendrip2023",
 	},
 	{ id: 3, title: "FaceBook", Icon: BsFacebook, profile: "pendrip2023" },
+];
+
+export const CoreValues = [
+	{
+		id: 1,
+		title: "Attention to Detail",
+		text: "we believe the client's desires are contained in their instructions and briefs, so we pay attention to details. This enables us to always craft relevant and client-centric write-ups that meet our client's goals. ",
+	},
+	{
+		id: 2,
+		title: "Excellence",
+		text: "the essence of Pendrip is to increase academic and technical performance through excellent writing. Therefore, we put in the work while you rest so you can have excellent results. ",
+	},
+	{
+		id: 3,
+		title: "Integrity",
+		text: "Every project we handle represents our fingerprint in the public domain. We value and protect our reputation and that of our clients through quality services",
+	},
+	{
+		id: 4,
+		title: "Time-bound Services",
+		text: "Clients' deadlines are automatically ours, and we understand how time can mean the difference between 'who gets an opportunity and loses it'.  Hence, we deliver very fast at all cost but quality.",
+	},
 ];
