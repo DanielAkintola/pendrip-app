@@ -1,4 +1,4 @@
-import { CgWebsite } from "react-Icons/cg";
+import { AiFillLayout } from "react-Icons/ai";
 import { HiShoppingBag } from "react-Icons/hi";
 import { PiScrollBold } from "react-Icons/pi";
 import { SlEnvolopeLetter } from "react-icons/sl";
@@ -25,12 +25,12 @@ export const servicesList = [
 		id: "01",
 		title: "Content Writing",
 		text: "Engage your audience with compelling content that leaves a lasting impression.",
-		Icon: CgWebsite,
+		Icon: AiFillLayout,
 	},
 
 	{
 		id: "02",
-		title: "copywriting",
+		title: "Copywriting",
 		text: "Harness the power of persuasive copy to captivate your target market and drive conversions.",
 		Icon: PiScrollBold,
 	},
