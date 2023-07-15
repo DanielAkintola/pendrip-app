@@ -6,7 +6,7 @@ import { BsFacebook } from "react-icons/bs";
 import { BiLogoInstagramAlt } from "react-icons/bi";
 
 import teamImg1 from "../assets/images/teamimg-1.jpg";
-import teamImg2 from "../assets/images/teamimg-6.jpg";
+import teamImg2 from "../assets/images/teamimg-6.JPG";
 
 import iconCollaborate from "../assets/images/icon-collaborate.svg";
 import iconCreative from "../assets/images/icon-creative.svg";
