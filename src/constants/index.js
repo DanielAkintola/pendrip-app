@@ -1,6 +1,6 @@
-import { AiFillLayout } from "react-Icons/ai";
-import { HiShoppingBag } from "react-Icons/hi";
-import { PiScrollBold } from "react-Icons/pi";
+import { AiFillLayout } from "react-icons/ai";
+import { HiShoppingBag } from "react-icons/hi";
+import { PiScrollBold } from "react-icons/pi";
 import { SlEnvolopeLetter } from "react-icons/sl";
 import { BsFacebook } from "react-icons/bs";
 import { BiLogoInstagramAlt } from "react-icons/bi";
