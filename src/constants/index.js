@@ -23,30 +23,44 @@ export const navLinks = [
 export const servicesList = [
 	{
 		id: "01",
-		title: "Content Writing",
-		text: "Engage your audience with compelling content that leaves a lasting impression.",
+		title: "Academic Writing Services",
+		text: "Elevate your academics with our expert writing assistance",
 		Icon: AiFillLayout,
 	},
 
 	{
 		id: "02",
-		title: "Copywriting",
-		text: "Harness the power of persuasive copy to captivate your target market and drive conversions.",
+		title: "Research Paper Writing",
+		text: " Producing research papers with proper citations and references.",
 		Icon: PiScrollBold,
 	},
 
 	{
 		id: "03",
-		title: "Ghostwriting",
-		text: "Transform your ideas into captivating written works with professional ghostwriting services.",
+		title: "Academic and Technical Consulting",
+		text: "Providing expert advice and consultations on academic and technical topics.",
 		Icon: SlEnvolopeLetter,
 	},
 
 	{
 		id: "04",
-		title: "Blog Articles",
-		text: "Create your world of insightful blog articles that inform, inspire, and engage.",
+		title: "Essay Writing",
+		text: "Creating well-structured and cohesive essays on various topics",
+		Icon: PiScrollBold,
+	},
+
+	{
+		id: "05",
+		title: "Coursework Writing",
+		text: "Helping students with assignments and coursework requirements",
 		Icon: HiShoppingBag,
+	},
+
+	{
+		id: "06",
+		title: "Term Paper Writing",
+		text: "Creating academic papers for a specific term or semester",
+		Icon: AiFillLayout,
 	},
 ];
 
@@ -80,13 +94,13 @@ export const featuressList = [
 		id: 1,
 		icon: iconCollaborate,
 		title: "Collaboration",
-		text: "We excel in collaborative copywriting. We work closely with clients, editors, and stakeholders, understanding project needs, providing regular updates, and incorporating feedback for a smooth process.",
+		text: "We collaborate and We work closely with clients, editors, and stakeholders, understanding project needs, providing regular updates, and incorporating feedback for a smooth process.",
 	},
 	{
 		id: 2,
 		icon: iconCreative,
 		title: "Creativity",
-		text: "we thrive on creative and innovative content creation. Our team thinks outside the box, generating fresh and captivating ideas that make us stand out from the competition. Expect exceptional, unique, and engaging content from Pendrip.",
+		text: "Our team thinks outside the box, generating fresh and captivating ideas that make us stand out from the competition. Expect exceptional, unique, and engaging content from Pendrip.",
 	},
 	{
 		id: 3,
@@ -120,7 +134,7 @@ export const CoreValues = [
 	{
 		id: 2,
 		title: "Excellence",
-		text: "the essence of Pendrip is to increase academic and technical performance through excellent writing. Therefore, we put in the work while you rest so you can have excellent results. ",
+		text: "The essence of Pendrip is to increase academic and technical performance through excellent writing. Therefore, we put in the work while you rest so you can have excellent results. ",
 	},
 	{
 		id: 3,

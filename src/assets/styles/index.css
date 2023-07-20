@@ -30,7 +30,7 @@ body {
 	background-color: rgba(67, 90, 208, 0.7);
 }
 
-.service-card:hover {
+.service-card--active {
 	background-color: rgba(11, 24, 93, 0.7);
 }
 
@@ -49,8 +49,8 @@ body {
 	transition: all 0.15s ease-in-out;
 }
 
-.service-card:hover .service-card-text,
-.service-card:hover .service-card-header {
+.service-card--active .service-card-text,
+.service-card--active .service-card-header {
 	transform: translateY(0);
 	opacity: 1;
 	visibility: visible;

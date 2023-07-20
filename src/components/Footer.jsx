@@ -16,12 +16,12 @@ const Footer = () => {
 					</h2>
 
 					<p className="text-gray-300 max-w-[500px] leading-[1.7]">
-						Partner with us and unlock the transformative potential of
-						exceptional copywriting and content creation. Trust Pendrip to
-						bring your brand's story to life. Get in touch today to
-						discover how Pendrip can elevate your brand through compelling
-						copy and captivating content. Together, let's make your words
-						shine.
+						Partner with us to unlock the transformative potential of
+						exceptional academic and technical writing. Trust Pendrip to
+						bring your research and ideas to life. Get in touch today to
+						discover how Pendrip can elevate your academic and technical
+						content through expert writing and captivating delivery.
+						Together, let's make your knowledge shine.
 					</p>
 				</div>
 

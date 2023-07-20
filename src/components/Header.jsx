@@ -16,10 +16,11 @@ const Header = () => {
 					<span className="bg-[#f5a65c] p-[1rem] inline-block uppercase text-[15px] rounded-md font-bold mb-[1rem] text-white">
 						Welcome to Pendrip
 					</span>
-					<h1 className="text-[#0b185d] font-bold text-[50px] leading-[1.1] mb-[2rem]">
-						Writing Content You've Never Had Before
+					<h1 className="text-[#0b185d] lg:max-w-[900px] font-bold text-[40px] md:text-[50px] leading-[1.1] mb-[2rem]">
+						Improve Your Academic and Business performances with Quality
+						Writing Services.
 					</h1>
-					<p className="max-w-[600px] mb-[2rem] text-gray-600 leading-[1.7] font-medium">
+					<p className="max-w-[600px] mb-[2rem] text-[20px] text-gray-600 leading-[1.5] font-medium">
 						Pendrip is a reputable and client-centred writing company that
 						specializes in academic and technical writing. Trust Pendrip
 						as your dedicated partner in achieving writing excellence at a
