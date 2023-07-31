@@ -15,7 +15,7 @@ const About = () => {
 				<div className="about-content mt-[3rem]">
 					<Tag>About Us.</Tag>
 					<h2 className="font-bold text-[30px] text-[#0b185d] mb-[1rem] leading-[1.1]">
-						A professoinal writer <br />
+						A professional writer <br />
 						makes a big difference
 					</h2>
 					<p className={styles.text}>

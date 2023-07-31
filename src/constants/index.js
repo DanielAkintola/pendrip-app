@@ -94,13 +94,13 @@ export const featuressList = [
 		id: 1,
 		icon: iconCollaborate,
 		title: "Collaboration",
-		text: "We collaborate and We work closely with clients, editors, and stakeholders, understanding project needs, providing regular updates, and incorporating feedback for a smooth process.",
+		text: "We collaborate and we work closely with clients, editors, and stakeholders, understanding project needs, providing regular updates, and incorporating feedback for a smooth process.",
 	},
 	{
 		id: 2,
 		icon: iconCreative,
 		title: "Creativity",
-		text: "Our team thinks outside the box, generating fresh and captivating ideas that make us stand out from the competition. Expect exceptional, unique, and engaging content from Pendrip.",
+		text: "Our team think outside the box, generating fresh and captivating ideas that make us stand out from the competition. Expect exceptional, unique, and engaging content from Pendrip.",
 	},
 	{
 		id: 3,

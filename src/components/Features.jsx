@@ -10,7 +10,7 @@ const Features = () => {
 				<div className="content mb-[3rem]">
 					<Tag>Our Features</Tag>
 					<h2 className="font-bold text-[25px] text-[#0b185d] mb-[1rem] leading-[1.3]">
-						We work on Core values and Norms <br /> to provide the best
+						We work on core values and norms <br /> to provide the best
 						services in the world
 					</h2>
 				</div>

@@ -13,7 +13,7 @@ const Team = () => {
 					<Tag>The Team.</Tag>
 					<h2 className="font-bold text-[30px] text-[#0b185d] mb-[1rem] leading-[1.1]">
 						Meet The Brains <br />
-						behind the pen
+						Behind The Pen
 					</h2>
 
 					<div className="flex my-[1.5rem] gap-3 md:gap-0 flex-col md:flex-row">

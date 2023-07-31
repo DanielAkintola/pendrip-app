@@ -5,6 +5,8 @@ import Button from "./Button";
 import Link from "./Link";
 import { AiOutlineMenu } from "react-icons/ai";
 
+import Logo from "../assets/images/logo.jpg";
+
 import Modal from "./Modal";
 
 const NavBar = () => {
@@ -27,13 +29,16 @@ const NavBar = () => {
 		<nav
 			className={`h-[6rem] bg-white shadow-sm ${
 				isFixed && "fixed shadow-md"
-			} top-0 left-0 z-20 w-[100%] `}
+			} top-0 left-0 z-20 w-[100%] overflow-hidden`}
 		>
 			<div className="flex justify-between items-center h-[100%] w-[100%] px-[1rem] max-w-[1200px] mx-auto">
-				<p className="logo mr-auto text-gray-800 uppercase text-[17px] font-extrabold">
+				<p className="logo mr-auto text-gray-800 uppercase text-[17px] font-extrabold ml-[-4rem]">
 					<a href="#">
-						PenDrip
-						<span>.</span>
+						<img
+							src={Logo}
+							alt="Pendrip"
+							className="h-[8rem] w-[14rem] object-contain "
+						/>
 					</a>
 				</p>
 				<ul className="hidden gap-[2rem]  items-center  md:flex">
