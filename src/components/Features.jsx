@@ -27,7 +27,7 @@ const Features = () => {
 
 const FeatureCard = ({ id, icon, title, text }) => {
 	return (
-		<div className="feature-card flex flex-col lg:flex-row-reverse gap-[1rem] lg:gap-[2rem] shadow-sm p-[.8rem] items-start md:items-center">
+		<div className="feature-card flex flex-col lg:flex-row-reverse gap-[1rem] h-[20rem] lg:gap-[2rem] shadow-sm p-[.8rem] items-start md:items-center">
 			<div className="illustration max-w-[300px]">
 				<img src={icon} alt={title} className="w-[100%]" />
 			</div>
